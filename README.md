@@ -82,3 +82,4 @@ than the developer who wrote the code.
 See https://github.com/icp/QA/ for how to create a test plan.
 # source-code
 # source-code
+# icpcoin
