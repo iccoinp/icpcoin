@@ -1,9 +1,9 @@
 ICP integration/staging tree
 ================================
 
-http://www.icp.org
+https://www.icoinp.com
 
-Copyright (c) 2009-2013 ICP Developers
+Copyright (c) 2009-2018 ICP Developers
 
 What is ICP?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. ICP is also the name of the open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the ICP client software, see http://www.icp.org.
+the ICP client software, see https://www.icoinp.com.
 
 License
 -------
